@@ -1,0 +1,21 @@
+/* CSS style declarations for Cozimo's WordPress plugin */
+.cozimoControls {
+text-align: center;
+margin-top: 10px;
+display: block;
+}
+.iceInterface {
+font-family: "georgia", "times new roman", serif;
+font-size: 12px;
+line-height: 2.5em;
+color:#ee6c0b;
+padding: 10px;
+}
+.iceInterface:hover {
+background-color: #EEE;
+text-decoration: underline;
+cursor: pointer;
+}
+.invisible {
+display: none;
+}
